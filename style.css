@@ -1,0 +1,28 @@
+.container {
+    margin-bottom: 80px;
+}
+.carousel-indicators li {
+    background-color: orange;
+}
+.orange-color {
+    color: orange;
+}
+.card {
+    border: none;
+}
+h2.border-b {
+    border-bottom: 5px solid;
+    border-image: linear-gradient(to right, #ffbf47 0%, orange 100%);
+    border-image-slice: 1;
+    border-width: 5px;
+}
+.ht-500{
+    height: 500px;
+}
+.p-5 {
+    padding: 50px 100px !important;
+    margin-bottom: 40px;
+}
+footer {
+    margin-top: 190px;
+}
